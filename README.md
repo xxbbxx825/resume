@@ -5,8 +5,8 @@
 - 氏名: 下川博礼（Hironori Shimokawa）
 - 居住地: 大阪市
 - 最終学歴: 大阪府立大学 学士（経済学）
-- Qiita: https://qiita.com/hiro_nr825
-- GitHub: https://github.com/xxbbxx825
+- Qiita: [hiro_nr825](https://qiita.com/hiro_nr825)
+- GitHub: [xxbbxx825](https://github.com/xxbbxx825)
 
 ## スキル
 ### 言語
