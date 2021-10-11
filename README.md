@@ -58,6 +58,7 @@ Webアプリケーションエンジニアとして、ソーシャル運用系�
 
 - 詳細設計
 - PHP/Laravel5でのAPI開発
+- AWS Lambda(Node.js)でのAPI開発
 - Vue.jsでのSPA開発
 - 外部APIサービスとの連携機能開発
 
